@@ -12,7 +12,7 @@ Recent advancements in image classification such as Convolutional Neural Network
 **EfficientNet 10 fold** - Jupyter Notebook - Python code implementation of EfficientNet along with the 10 fold validation training process  
 **ResNet50 10 fold** - Jupyter Notebook - Python code implementation of ResNet50 along with the 10 fold validation training process
 **SqueezeNet 10 fold** - Jupyter Notebook - Python code implementation of ResNet50 along with the 10 fold validation training process
-**Unused Models** - Folder - Network solutions not used in final experiment (HuggingFace Wave2Vec, PyTorch Scratch CNN, Tensorflow Scratch CNN)  
+**Unused Models** - Folder - Network solutions not used in final experiment (Wave2Vec, VGG16, Scratch PyTorch, Scratch Tensorflow)  
 
 ### Data: 
 Contains metadata for the UrbanSound8k dataset  
