@@ -1,4 +1,4 @@
-# Benchmarking Spectral Image Generation Schema and Pre-Trained Convolutional Neural Network Architectures for Audio Classification Tasks
+## Benchmarking Spectral Image Generation Schema and Pre-Trained Convolutional Neural Network Architectures for Audio Classification Tasks
  
 ## Abstract:
 
