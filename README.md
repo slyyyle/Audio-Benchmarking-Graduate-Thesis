@@ -8,7 +8,7 @@ Recent advancements in image classification such as Convolutional Neural Network
 
 #### Code:
 Data Preprocessing - Jupyter Notebook - Python code relating to the preprocessing of audio files into image data representations  
-Preprocessing Time Benchmarking - Jupyter Notebook - Python code relating to the benchmarking of spectral image generation techniques  
+Preprocessing Time Benchmarking - Jupyter Notebook - Python code used to benchmark of spectral image generation techniques  
 EfficientNet 10 fold - Jupyter Notebook - Python code implementation of EfficientNet along with the 10 fold validation training process  
 ResNet50 10 fold - Jupyter Notebook - Python code implementation of ResNet50 along with the 10 fold validation training process
 SqueezeNet 10 fold - Jupyter Notebook - Python code implementation of ResNet50 along with the 10 fold validation training process
