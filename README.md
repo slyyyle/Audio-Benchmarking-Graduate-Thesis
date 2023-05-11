@@ -15,15 +15,14 @@ Recent advancements in image classification such as Convolutional Neural Network
 **Unused Models** - Folder - Network solutions not used in final experiment (Wave2Vec, VGG16, Scratch PyTorch, Scratch Tensorflow)  
 
 ### Data: 
-Contains metadata for the UrbanSound8k dataset  
-**Note:** Due to the size of the audio dataset, only the metadata is included.  The full dataset can be found here: https://urbansounddataset.weebly.com/urbansound8k.html
+Metadata for the UrbanSound8k dataset.  Due to the size of the audio dataset, only the metadata is included.  The full dataset can be found here: https://urbansounddataset.weebly.com/urbansound8k.html
 
 ### Experimental Results: 
-Contains trained models (1 per fold) and train/test performance reports for each benchmarked image representation (Cochleagram, Approximate Gammatone, Linear Gammachirp, Logarithmic Gammachirp) and CNN architecture (EfficientNet, ResNet50, SqueezeNet)  
+Trained models (1 per fold) and train/test performance reports for each benchmarked image representation (Cochleagram, Approximate Gammatone, Linear Gammachirp, Logarithmic Gammachirp) and CNN architecture (EfficientNet, ResNet50, SqueezeNet)  
 
 ### Final Whitepaper: 
 Benchmarking Spectral Image Generation Schema and Pre-Trained Convolutional Neural Network Architectures for Audio Classification Tasks  
 
 ### Final Presentation:
-Contains powerpoint presentation used in final thesis defense
+Powerpoint presentation used in final thesis defense
 
