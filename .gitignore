@@ -1,10 +1,5 @@
-approxGT_224.pkl
-cgram_224.pkl
-LinGC_224.pkl
-LogGC_224.pkl
 urbansound8k/
 urbansound8k_mono/
 Problem Format Data/
-Experimental Results/
-Code/Unused Models/*
-Code/Prototype Models/*
+data/*
+!data/UrbanSound8K.csv
