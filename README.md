@@ -12,10 +12,10 @@ Benchmarking Spectral Image Generation Schema and Pre-Trained Convolutional Neur
 ### Final Presentation:
 Powerpoint presentation used in final thesis defense
 
-### Data: 
+### Data:  
 Metadata for the UrbanSound8k dataset.  Due to the size of the audio dataset, only the metadata is included.  The full dataset can be found here: https://urbansounddataset.weebly.com/urbansound8k.html
 
-### Code:
+### Code:  
 **Data Preprocessing** - Jupyter Notebook - Python code relating to the preprocessing of audio files into image data representations  
 **Preprocessing Time Benchmarking** - Jupyter Notebook - Python code used to benchmark of spectral image generation techniques  
 **EfficientNet 10 fold** - Jupyter Notebook - Python code implementation of EfficientNet along with the 10 fold validation training process  
@@ -23,6 +23,6 @@ Metadata for the UrbanSound8k dataset.  Due to the size of the audio dataset, on
 **SqueezeNet 10 fold** - Jupyter Notebook - Python code implementation of ResNet50 along with the 10 fold validation training process
 **Unused Models** - Folder - Network solutions not used in final experiment (Wave2Vec, VGG16, Scratch PyTorch, Scratch Tensorflow)  
 
-### Experimental Results: 
+### Experimental Results:  
 Trained models (1 per fold) and train/test performance reports for each benchmarked image representation (Cochleagram, Approximate Gammatone, Linear Gammachirp, Logarithmic Gammachirp) and CNN architecture (EfficientNet, ResNet50, SqueezeNet)  
 
